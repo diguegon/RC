@@ -1,2 +1,2 @@
 # RC
-Ejercicios de Representaion del Conocimiento
+Ejercicios de Representacion del Conocimiento
